@@ -63,12 +63,16 @@ endmodule
 
 **Output:**
 
-**Timing Diagram**
+
 
 ## Truth Table:
 ![Truth Table exp 2](https://github.com/rohithprem18/BOOLEAN_FUNCTION_MINIMIZATION/assets/146315115/9abb1742-c4c9-483d-908e-f66666238b03)
 
 ![truth  table cont](https://github.com/rohithprem18/BOOLEAN_FUNCTION_MINIMIZATION/assets/146315115/c15dea4a-b080-400c-a18a-9ab74147bd8d)
+
+## Timing Diagram:
+
+![timing](https://github.com/rohithprem18/BOOLEAN_FUNCTION_MINIMIZATION/assets/146315115/beda418c-43be-4980-89a1-da3362b13b90)
 
 
 **Result:**
