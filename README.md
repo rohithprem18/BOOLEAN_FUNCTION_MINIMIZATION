@@ -68,6 +68,9 @@ endmodule
 ## Truth Table:
 ![Truth Table exp 2](https://github.com/rohithprem18/BOOLEAN_FUNCTION_MINIMIZATION/assets/146315115/9abb1742-c4c9-483d-908e-f66666238b03)
 
+![truth  table cont](https://github.com/rohithprem18/BOOLEAN_FUNCTION_MINIMIZATION/assets/146315115/c15dea4a-b080-400c-a18a-9ab74147bd8d)
+
+
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
