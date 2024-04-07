@@ -72,7 +72,7 @@ endmodule
 
 ## Timing Diagram:
 
-![timing](https://github.com/rohithprem18/BOOLEAN_FUNCTION_MINIMIZATION/assets/146315115/beda418c-43be-4980-89a1-da3362b13b90)
+![waveformexp2](https://github.com/rohithprem18/BOOLEAN_FUNCTION_MINIMIZATION/assets/146315115/2683d399-3d06-49d2-935b-4b023577c531)
 
 
 **Result:**
